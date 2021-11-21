@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.devjam21.devjams_21">
+
    <application
         android:label="devjams_21"
         android:icon="@mipmap/ic_launcher">
